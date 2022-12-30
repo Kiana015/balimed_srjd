@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as n}from"./app.05379675.js";const t={mounted(){window.location="/rbac/userrole"}},c={class:"spinner-container"},r=n("div",{class:"spinner"},null,-1),a=[r];function _(i,d,l,p,u,f){return o(),s("div",c,a)}const h=e(t,[["render",_]]);export{h as default};

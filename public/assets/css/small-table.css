@@ -1,0 +1,23 @@
+.small-table{
+    font-size: 10pt;
+}
+.small-table td, th {
+    padding: 5px !important;
+}
+
+.card-header {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #dbdfea !important;
+    border-bottom: 1px solid rgb(233 236 239);
+}
+
+.nk-block-head-sm {
+    word-break: break-all !important;
+    padding-bottom: 1rem;
+}
+.nk-block-head {
+    word-break: break-all !important;
+    position: relative;
+    padding-bottom: 1.25rem;
+}

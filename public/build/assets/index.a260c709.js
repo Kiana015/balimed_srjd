@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as t}from"./app.05379675.js";const s={components:{}},c={class:"pt-8"};function n(r,a,_,p,d,l){return e(),t("div",c," Hello world ")}const f=o(s,[["render",n]]);export{f as default};
